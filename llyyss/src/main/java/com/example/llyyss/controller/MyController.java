@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class MyController {
 	@RequestMapping("/hello2")
-	public String hello2() {
+	public String hello21() {
 		return "hello world 20230514";
 		
 	}
